@@ -1,6 +1,6 @@
 # NBA Today React Native Example
 
-The NBA Today React Native Example is a React Native app built with expo that 
+The NBA Today React Native Example is a React Native app built with expo that consumes the [NBA Today (Vanilla JS)](https://github.com/mike-munchdev/nba-today-vanillajs) server.
 
 ## Screenshots
 <p float="left">
