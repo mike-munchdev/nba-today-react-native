@@ -3,11 +3,12 @@
 The NBA Today React Native Example is a React Native app built with expo that 
 
 ## Screenshots
-             |  
-:-------------------------:|:-------------------------:
-![](http://www.munchdevelopment.com/screenshots/nbaTodayRn/sn01.png)  |  ![](http://www.munchdevelopment.com/screenshots/nbaTodayRn/sn02.png)
-![](http://www.munchdevelopment.com/screenshots/nbaTodayRn/sn03.png)  |  ![](http://www.munchdevelopment.com/screenshots/nbaTodayRn/sn04.png)
-
+<p float="left">
+<img src="http://www.munchdevelopment.com/screenshots/nbaTodayRn/sn01.png" width="200" height="393.5" alt="">
+<img src="http://www.munchdevelopment.com/screenshots/nbaTodayRn/sn02.png" width="200" height="393.5" alt="">
+<img src="http://www.munchdevelopment.com/screenshots/nbaTodayRn/sn03.png" width="200" height="393.5" alt="">
+<img src="http://www.munchdevelopment.com/screenshots/nbaTodayRn/sn04.png" width="200" height="393.5" alt="">
+</p>
 ## Getting Started
 
 expo start
